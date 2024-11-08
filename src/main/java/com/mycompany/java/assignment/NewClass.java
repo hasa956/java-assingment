@@ -9,5 +9,5 @@ package com.mycompany.java.assignment;
  * @author PRO
  */
 public class NewClass {
-    system.out.println("im alive")
+    System.out.println("im not alive");
 }
